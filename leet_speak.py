@@ -26,4 +26,4 @@ def convert(text: str) -> str:
     return leet_word
     
 
-print(convert("Appiste"))
+print(convert("Floccinaucinihilipilification"))
